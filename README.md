@@ -1,4 +1,4 @@
-#### &nbsp;Data Science Learning Journal
+#  **Data** **Science** **Learning** **Journal**
 
 
 
@@ -8,33 +8,21 @@ of core data science concepts.
 
 
 
-##### &nbsp;Folder Structure
+##  **Folder** **Structure**
 
-\- python-basics
-
-\- oops
-
-\- advanced-python
-
-\- numpy
-
-\- pandas
-
-\- visualization
-
-\- data-analysis-process
-
-\- sql
+* python-basics
+* oops
+* advanced-python
+* NumPy
+* pandas
+* visualization
+* data-analysis-process
+* SQL
 
 
 
-##### &nbsp;Goal
+#####  **Goal**
 
-\- Build strong fundamentals
-
-\- Maintain daily GitHub activity
-
-\- Prepare for data science interviews and projects
-
-
-
+* Build strong fundamentals
+* Maintain daily GitHub activity
+* Prepare for data science interviews and projects
